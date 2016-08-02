@@ -3,7 +3,6 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/pbmedia/fractal-illuminate-paginator.svg?style=flat-square)](https://packagist.org/packages/pbmedia/fractal-illuminate-paginator)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/pascalbaljetmedia/fractal-illuminate-paginator/master.svg?style=flat-square)](https://travis-ci.org/pascalbaljetmedia/fractal-illuminate-paginator)
-[![SensioLabsInsight](https://img.shields.io/sensiolabs/i/xxxxxxxxx.svg?style=flat-square)](https://insight.sensiolabs.com/projects/xxxxxxxxx)
 [![Quality Score](https://img.shields.io/scrutinizer/g/pascalbaljetmedia/fractal-illuminate-paginator.svg?style=flat-square)](https://scrutinizer-ci.com/g/pascalbaljetmedia/fractal-illuminate-paginator)
 [![Total Downloads](https://img.shields.io/packagist/dt/pbmedia/fractal-illuminate-paginator.svg?style=flat-square)](https://packagist.org/packages/pbmedia/fractal-illuminate-paginator)
 
