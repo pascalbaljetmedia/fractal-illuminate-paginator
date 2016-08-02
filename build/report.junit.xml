@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Fractal Illuminate test suite" tests="1" assertions="1" failures="0" errors="0" time="0.002722">
+    <testsuite name="FractalIlluminatePaginatorTest" file="/Users/pascalbaljet/Sites/fractal/tests/FractalIlluminatePaginatorTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.002722">
+      <testcase name="testSerializerWithTrait" class="FractalIlluminatePaginatorTest" file="/Users/pascalbaljet/Sites/fractal/tests/FractalIlluminatePaginatorTest.php" line="17" assertions="1" time="0.002722"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

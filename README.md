@@ -1,5 +1,12 @@
 # Fractal Illuminate paginator
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/pbmedia/fractal-illuminate-paginator.svg?style=flat-square)](https://packagist.org/packages/pbmedia/fractal-illuminate-paginator)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Build Status](https://img.shields.io/travis/pbmedia/fractal-illuminate-paginator/master.svg?style=flat-square)](https://travis-ci.org/pbmedia/fractal-illuminate-paginator)
+[![SensioLabsInsight](https://img.shields.io/sensiolabs/i/xxxxxxxxx.svg?style=flat-square)](https://insight.sensiolabs.com/projects/xxxxxxxxx)
+[![Quality Score](https://img.shields.io/scrutinizer/g/pbmedia/fractal-illuminate-paginator.svg?style=flat-square)](https://scrutinizer-ci.com/g/pbmedia/fractal-illuminate-paginator)
+[![Total Downloads](https://img.shields.io/packagist/dt/pbmedia/fractal-illuminate-paginator.svg?style=flat-square)](https://packagist.org/packages/pbmedia/fractal-illuminate-paginator)
+
 The Fractal package serializes the paginator different than the Illuminate paginator. This trait brings the serialization of the Illuminate paginator back to a Fractal serializer. Extend your serializer of choice, use this trait and you're done!
 
 ## Installation
