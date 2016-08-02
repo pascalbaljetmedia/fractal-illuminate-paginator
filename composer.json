@@ -1,6 +1,6 @@
 {
     "name": "pbmedia/fractal-illuminate-paginator",
-    "description": "Bring back the Illuminate pagination data to your Fractal serializer",
+    "description": "Bring back the Illuminate pagination results to your Fractal serializer",
     "keywords": ["fractal", "laravel", "illuminate", "paginator"],
     "require": {
         "php": ">=7.0.9",
