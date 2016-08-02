@@ -1,0 +1,22 @@
+{
+    "name": "pbmedia/fractal-illuminate-paginator",
+    "description": "Bring back the Illuminate pagination data to your Fractal serializer",
+    "keywords": ["fractal", "laravel", "illuminate", "paginator"],
+    "require": {
+        "php": ">=7.0.9",
+        "league/fractal": "^0.13.0",
+        "illuminate/pagination": "^5.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pascal Baljet",
+            "email": "pascal@pascalbaljetmedia.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pbmedia\\Serializers\\": "src/"
+        }
+    }
+}
